@@ -1,9 +1,14 @@
 /* Diagnostic Styling */
-*{
+/* *{
   outline: 1px dotted grey;
-}
+} */
 
-/* temp background color */
+/* temp background color
 body{
     background: honeydew;
+  } */
+
+  body {
+    height: 100vh;
   }
+  
